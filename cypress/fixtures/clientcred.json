@@ -1,11 +1,16 @@
-{
-  "Client":
-  { 
-    "Email" : "ajay.kumar1@yopmail.com",
-    "Password" : "Ajay@123"
-
-}
-
-}
+[
+  {
+    "Client": {
+      "Email": "ajay.kumar1@yopmail.com",
+      "Password": "Ajay@123"
+    }
+  },
+  {
+    "Invalid": {
+      "Email": "test124@gmail.com",
+      "Password": "1234567"
+    }
+  }
+]
 
 
